@@ -60,6 +60,11 @@ span {
     color: #009879;
 }
 
+.score {
+    background-color: #e4eeec;
+    color: ffffff;
+  }
+
 
 @media 
 only screen and (max-width: 760px)  {
@@ -115,4 +120,8 @@ only screen and (max-width: 500px)  {
     .text-headings {
         font-size: 8px;
     }
+}
+
+.whatever {
+    background: #e4eeec;
 }
